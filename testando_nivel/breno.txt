@@ -3,3 +3,5 @@ testando
 adicionado alteracoes na minha branch nova
 
 adicionei novo metodo
+
+adicionei camada de log nesse script
